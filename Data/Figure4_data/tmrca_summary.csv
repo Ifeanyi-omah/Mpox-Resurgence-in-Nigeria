@@ -1,0 +1,5 @@
+clade,node,median,hpd_lo,hpd_hi,monophyletic_frac
+"G.1, Sierra Leone",divergence,2023-11-07,2023-07-26,2024-01-21,1.0
+"G.1, Sierra Leone",establishment,2024-07-29,2024-04-26,2024-09-19,1.0
+"G.2, Togo",divergence,2023-10-05,2023-07-06,2024-03-13,1.0
+"G.2, Togo",establishment,2024-08-25,2024-05-12,2024-11-03,1.0

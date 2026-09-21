@@ -1,0 +1,4 @@
+wave,period,suspected,confirmed,pct_confirmed_of_suspected,states_with_confirmed_of_37,states_reporting_suspected_of_37,northern_zones_pct_of_confirmed,highest_burden_zone,highest_burden_zone_pct,pct_confirmed_aged_le20,pct_confirmed_aged_21_40,source
+Wave 1 2017-2020,2017-01-01 to 2020-12-31,414,192,46.4,18,30,6.2,South South,67.7,15.6,69.3,NCDC sitrep wk52 2023
+Wave 2 2021-2023,2021-01-01 to 2023-12-31,3403,894,26.3,36,37,20.9,South West,38.0,31.5,51.5,NCDC sitrep wk52 2023
+Wave 3 2024-2025,2024-01-01 to 2025-10-31,1883,319,16.9,32,36,38.9,South South,40.4,38.3,42.6,NRL national line lists 2024-2025

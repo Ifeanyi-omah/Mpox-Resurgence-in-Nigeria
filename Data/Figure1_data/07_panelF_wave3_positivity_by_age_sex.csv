@@ -1,0 +1,13 @@
+band,sex,suspected,confirmed,pct_positive,group
+0-4,FEMALE,225,18,8.0,child (<18y)
+0-4,MALE,297,25,8.4,child (<18y)
+5-9,FEMALE,101,15,14.9,child (<18y)
+5-9,MALE,105,9,8.6,child (<18y)
+10-17,FEMALE,105,14,13.3,child (<18y)
+10-17,MALE,198,17,8.6,child (<18y)
+18-29,FEMALE,133,31,23.3,adult
+18-29,MALE,149,42,28.2,adult
+30-44,FEMALE,106,20,18.9,adult
+30-44,MALE,165,58,35.2,adult
+45+,FEMALE,75,11,14.7,adult
+45+,MALE,101,23,22.8,adult

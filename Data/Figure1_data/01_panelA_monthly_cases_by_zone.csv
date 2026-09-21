@@ -1,0 +1,311 @@
+month,zone,confirmed,suspected_not_confirmed,source
+2017-06-01,South South,1,0.0,NCDC aggregate state counts
+2017-07-01,North Central,0,1.0,NCDC aggregate state counts
+2017-07-01,North East,0,1.0,NCDC aggregate state counts
+2017-07-01,South East,1,1.0,NCDC aggregate state counts
+2017-07-01,South South,1,3.0,NCDC aggregate state counts
+2017-07-01,South West,2,4.0,NCDC aggregate state counts
+2017-08-01,South South,2,0.0,NCDC aggregate state counts
+2017-09-01,North Central,1,0.0,NCDC aggregate state counts
+2017-09-01,North West,0,1.0,NCDC aggregate state counts
+2017-09-01,South East,1,0.0,NCDC aggregate state counts
+2017-09-01,South South,7,9.0,NCDC aggregate state counts
+2017-09-01,South West,0,1.0,NCDC aggregate state counts
+2017-10-01,North Central,4,9.0,NCDC aggregate state counts
+2017-10-01,North West,0,6.0,NCDC aggregate state counts
+2017-10-01,South East,3,5.0,NCDC aggregate state counts
+2017-10-01,South South,36,25.0,NCDC aggregate state counts
+2017-10-01,South West,3,20.0,NCDC aggregate state counts
+2017-11-01,North Central,2,3.0,NCDC aggregate state counts
+2017-11-01,North East,0,1.0,NCDC aggregate state counts
+2017-11-01,South East,2,0.0,NCDC aggregate state counts
+2017-11-01,South South,16,10.0,NCDC aggregate state counts
+2017-12-01,North Central,1,0.0,NCDC aggregate state counts
+2017-12-01,South East,0,1.0,NCDC aggregate state counts
+2017-12-01,South South,4,9.0,NCDC aggregate state counts
+2017-12-01,South West,1,0.0,NCDC aggregate state counts
+2018-01-01,South East,2,0.0,NCDC aggregate state counts
+2018-01-01,South South,1,11.0,NCDC aggregate state counts
+2018-01-01,South West,2,0.0,NCDC aggregate state counts
+2018-02-01,North Central,1,0.0,NCDC aggregate state counts
+2018-02-01,South East,1,1.0,NCDC aggregate state counts
+2018-02-01,South South,4,0.0,NCDC aggregate state counts
+2018-03-01,North Central,1,0.0,NCDC aggregate state counts
+2018-03-01,North East,0,3.0,NCDC aggregate state counts
+2018-03-01,South East,2,0.0,NCDC aggregate state counts
+2018-03-01,South South,4,2.0,NCDC aggregate state counts
+2018-04-01,South East,1,0.0,NCDC aggregate state counts
+2018-04-01,South South,3,3.0,NCDC aggregate state counts
+2018-05-01,North Central,1,0.0,NCDC aggregate state counts
+2018-05-01,South South,1,6.0,NCDC aggregate state counts
+2018-06-01,South East,1,0.0,NCDC aggregate state counts
+2018-06-01,South South,2,1.0,NCDC aggregate state counts
+2018-06-01,South West,2,0.0,NCDC aggregate state counts
+2018-07-01,North West,0,1.0,NCDC aggregate state counts
+2018-07-01,South South,1,6.0,NCDC aggregate state counts
+2018-07-01,South West,0,1.0,NCDC aggregate state counts
+2018-08-01,North Central,0,1.0,NCDC aggregate state counts
+2018-08-01,South South,4,11.0,NCDC aggregate state counts
+2018-08-01,South West,0,1.0,NCDC aggregate state counts
+2018-09-01,South East,0,1.0,NCDC aggregate state counts
+2018-09-01,South South,5,5.0,NCDC aggregate state counts
+2018-09-01,South West,0,1.0,NCDC aggregate state counts
+2018-10-01,South South,4,8.0,NCDC aggregate state counts
+2018-10-01,South West,1,0.0,NCDC aggregate state counts
+2018-11-01,North Central,0,1.0,NCDC aggregate state counts
+2018-11-01,South South,3,2.0,NCDC aggregate state counts
+2018-11-01,South West,0,1.0,NCDC aggregate state counts
+2018-12-01,South South,2,0.0,NCDC aggregate state counts
+2019-01-01,North Central,1,0.0,NCDC aggregate state counts
+2019-01-01,North East,1,0.0,NCDC aggregate state counts
+2019-01-01,South East,1,0.0,NCDC aggregate state counts
+2019-01-01,South South,3,1.0,NCDC aggregate state counts
+2019-01-01,South West,1,0.0,NCDC aggregate state counts
+2019-02-01,South South,7,2.0,NCDC aggregate state counts
+2019-02-01,South West,1,1.0,NCDC aggregate state counts
+2019-03-01,North Central,0,1.0,NCDC aggregate state counts
+2019-03-01,South South,1,1.0,NCDC aggregate state counts
+2019-03-01,South West,5,1.0,NCDC aggregate state counts
+2019-04-01,North West,1,0.0,NCDC aggregate state counts
+2019-04-01,South South,2,0.0,NCDC aggregate state counts
+2019-04-01,South West,2,0.0,NCDC aggregate state counts
+2019-05-01,South South,3,1.0,NCDC aggregate state counts
+2019-05-01,South West,1,1.0,NCDC aggregate state counts
+2019-06-01,South South,2,0.0,NCDC aggregate state counts
+2019-06-01,South West,2,0.0,NCDC aggregate state counts
+2019-07-01,South East,1,0.0,NCDC aggregate state counts
+2019-07-01,South South,4,2.0,NCDC aggregate state counts
+2019-07-01,South West,4,3.0,NCDC aggregate state counts
+2019-08-01,South South,0,1.0,NCDC aggregate state counts
+2019-08-01,South West,0,1.0,NCDC aggregate state counts
+2019-09-01,South West,1,1.0,NCDC aggregate state counts
+2019-10-01,South South,1,0.0,NCDC aggregate state counts
+2019-11-01,North East,1,0.0,NCDC aggregate state counts
+2019-12-01,South South,1,1.0,NCDC aggregate state counts
+2020-01-01,North Central,1,0.0,NCDC aggregate state counts
+2020-01-01,South South,0,2.0,NCDC aggregate state counts
+2020-01-01,South West,0,3.0,NCDC aggregate state counts
+2020-02-01,North Central,0,1.0,NCDC aggregate state counts
+2020-02-01,South South,0,3.0,NCDC aggregate state counts
+2020-02-01,South West,1,3.0,NCDC aggregate state counts
+2020-03-01,South East,0,2.0,NCDC aggregate state counts
+2020-03-01,South West,1,1.0,NCDC aggregate state counts
+2020-04-01,North Central,0,1.0,NCDC aggregate state counts
+2020-07-01,South South,0,2.0,NCDC aggregate state counts
+2020-07-01,South West,1,0.0,NCDC aggregate state counts
+2020-09-01,South East,1,0.0,NCDC aggregate state counts
+2020-09-01,South South,0,5.0,NCDC aggregate state counts
+2020-10-01,South South,1,0.0,NCDC aggregate state counts
+2020-10-01,South West,1,0.0,NCDC aggregate state counts
+2020-11-01,South South,0,1.0,NCDC aggregate state counts
+2020-12-01,South South,1,2.0,NCDC aggregate state counts
+2020-12-01,South West,0,1.0,NCDC aggregate state counts
+2021-01-01,South South,2,10.0,NCDC aggregate state counts
+2021-02-01,South South,1,10.0,NCDC aggregate state counts
+2021-03-01,South West,1,1.0,NCDC aggregate state counts
+2021-04-01,South South,1,0.0,NCDC aggregate state counts
+2021-05-01,North East,0,1.0,NCDC aggregate state counts
+2021-05-01,South South,2,3.0,NCDC aggregate state counts
+2021-06-01,North East,0,1.0,NCDC aggregate state counts
+2021-06-01,South South,3,13.0,NCDC aggregate state counts
+2021-06-01,South West,3,0.0,NCDC aggregate state counts
+2021-07-01,North Central,2,0.0,NCDC aggregate state counts
+2021-07-01,South South,6,15.0,NCDC aggregate state counts
+2021-07-01,South West,1,1.0,NCDC aggregate state counts
+2021-08-01,South South,1,1.0,NCDC aggregate state counts
+2021-09-01,South South,1,0.0,NCDC aggregate state counts
+2021-10-01,North Central,0,1.0,NCDC aggregate state counts
+2021-10-01,North West,0,5.0,NCDC aggregate state counts
+2021-10-01,South South,3,0.0,NCDC aggregate state counts
+2021-11-01,South South,3,0.0,NCDC aggregate state counts
+2021-11-01,South West,1,0.0,NCDC aggregate state counts
+2021-12-01,South South,2,2.0,NCDC aggregate state counts
+2021-12-01,South West,1,0.0,NCDC aggregate state counts
+2022-01-01,North Central,1,0.0,NCDC aggregate state counts
+2022-01-01,North East,0,4.0,NCDC aggregate state counts
+2022-01-01,South East,1,0.0,NCDC aggregate state counts
+2022-01-01,South South,0,1.0,NCDC aggregate state counts
+2022-01-01,South West,1,2.0,NCDC aggregate state counts
+2022-02-01,South East,0,3.0,NCDC aggregate state counts
+2022-02-01,South South,0,3.0,NCDC aggregate state counts
+2022-02-01,South West,1,0.0,NCDC aggregate state counts
+2022-03-01,North Central,0,2.0,NCDC aggregate state counts
+2022-03-01,North East,2,5.0,NCDC aggregate state counts
+2022-03-01,North West,1,5.0,NCDC aggregate state counts
+2022-03-01,South South,3,4.0,NCDC aggregate state counts
+2022-04-01,North Central,1,0.0,NCDC aggregate state counts
+2022-04-01,North West,1,0.0,NCDC aggregate state counts
+2022-04-01,South South,1,4.0,NCDC aggregate state counts
+2022-04-01,South West,2,1.0,NCDC aggregate state counts
+2022-05-01,North Central,1,7.0,NCDC aggregate state counts
+2022-05-01,North East,2,4.0,NCDC aggregate state counts
+2022-05-01,North West,0,12.0,NCDC aggregate state counts
+2022-05-01,South South,3,3.0,NCDC aggregate state counts
+2022-05-01,South West,2,8.0,NCDC aggregate state counts
+2022-06-01,North Central,11,11.0,NCDC aggregate state counts
+2022-06-01,North East,6,14.0,NCDC aggregate state counts
+2022-06-01,North West,1,11.0,NCDC aggregate state counts
+2022-06-01,South East,2,1.0,NCDC aggregate state counts
+2022-06-01,South South,17,19.0,NCDC aggregate state counts
+2022-06-01,South West,10,28.0,NCDC aggregate state counts
+2022-07-01,North Central,13,21.0,NCDC aggregate state counts
+2022-07-01,North East,14,26.0,NCDC aggregate state counts
+2022-07-01,North West,4,17.0,NCDC aggregate state counts
+2022-07-01,South East,10,11.0,NCDC aggregate state counts
+2022-07-01,South South,23,8.0,NCDC aggregate state counts
+2022-07-01,South West,23,24.0,NCDC aggregate state counts
+2022-08-01,North Central,51,17.0,NCDC aggregate state counts
+2022-08-01,North East,39,9.0,NCDC aggregate state counts
+2022-08-01,North West,10,10.0,NCDC aggregate state counts
+2022-08-01,South East,6,86.0,NCDC aggregate state counts
+2022-08-01,South South,8,40.0,NCDC aggregate state counts
+2022-08-01,South West,28,97.0,NCDC aggregate state counts
+2022-09-01,North Central,20,25.0,NCDC aggregate state counts
+2022-09-01,North East,7,17.0,NCDC aggregate state counts
+2022-09-01,North West,11,28.0,NCDC aggregate state counts
+2022-09-01,South East,26,37.0,NCDC aggregate state counts
+2022-09-01,South South,33,23.0,NCDC aggregate state counts
+2022-09-01,South West,81,97.0,NCDC aggregate state counts
+2022-10-01,North Central,11,44.0,NCDC aggregate state counts
+2022-10-01,North East,2,12.0,NCDC aggregate state counts
+2022-10-01,North West,5,38.0,NCDC aggregate state counts
+2022-10-01,South East,38,37.0,NCDC aggregate state counts
+2022-10-01,South South,27,33.0,NCDC aggregate state counts
+2022-10-01,South West,48,118.0,NCDC aggregate state counts
+2022-11-01,North Central,18,37.0,NCDC aggregate state counts
+2022-11-01,North East,2,6.0,NCDC aggregate state counts
+2022-11-01,North West,5,23.0,NCDC aggregate state counts
+2022-11-01,South East,21,31.0,NCDC aggregate state counts
+2022-11-01,South South,19,43.0,NCDC aggregate state counts
+2022-11-01,South West,40,68.0,NCDC aggregate state counts
+2022-12-01,North Central,7,54.0,NCDC aggregate state counts
+2022-12-01,North East,2,6.0,NCDC aggregate state counts
+2022-12-01,North West,1,19.0,NCDC aggregate state counts
+2022-12-01,South East,10,38.0,NCDC aggregate state counts
+2022-12-01,South South,11,28.0,NCDC aggregate state counts
+2022-12-01,South West,17,42.0,NCDC aggregate state counts
+2023-01-01,all zones (no state breakdown),27,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-02-01,all zones (no state breakdown),21,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-03-01,all zones (no state breakdown),22,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-04-01,all zones (no state breakdown),2,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-05-01,all zones (no state breakdown),7,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-06-01,all zones (no state breakdown),1,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-07-01,all zones (no state breakdown),0,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-08-01,all zones (no state breakdown),0,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-09-01,all zones (no state breakdown),0,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-10-01,all zones (no state breakdown),2,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-11-01,all zones (no state breakdown),12,,"NCDC sitrep wk52 2023, Fig. 4"
+2023-12-01,all zones (no state breakdown),4,,"NCDC sitrep wk52 2023, Fig. 4"
+2024-01-01,North Central,0,5.0,NRL line list (specimen collection date)
+2024-01-01,North East,0,3.0,NRL line list (specimen collection date)
+2024-01-01,North West,0,1.0,NRL line list (specimen collection date)
+2024-01-01,South East,2,6.0,NRL line list (specimen collection date)
+2024-01-01,South South,0,4.0,NRL line list (specimen collection date)
+2024-01-01,South West,0,39.0,NRL line list (specimen collection date)
+2024-02-01,North Central,0,11.0,NRL line list (specimen collection date)
+2024-02-01,North East,0,3.0,NRL line list (specimen collection date)
+2024-02-01,North West,0,2.0,NRL line list (specimen collection date)
+2024-02-01,South East,1,18.0,NRL line list (specimen collection date)
+2024-02-01,South South,4,19.0,NRL line list (specimen collection date)
+2024-02-01,South West,1,46.0,NRL line list (specimen collection date)
+2024-03-01,North Central,1,10.0,NRL line list (specimen collection date)
+2024-03-01,North East,0,3.0,NRL line list (specimen collection date)
+2024-03-01,North West,1,12.0,NRL line list (specimen collection date)
+2024-03-01,South East,0,7.0,NRL line list (specimen collection date)
+2024-03-01,South South,5,37.0,NRL line list (specimen collection date)
+2024-03-01,South West,0,14.0,NRL line list (specimen collection date)
+2024-04-01,North Central,1,1.0,NRL line list (specimen collection date)
+2024-04-01,North East,0,1.0,NRL line list (specimen collection date)
+2024-04-01,North West,0,13.0,NRL line list (specimen collection date)
+2024-04-01,South East,2,2.0,NRL line list (specimen collection date)
+2024-04-01,South South,2,18.0,NRL line list (specimen collection date)
+2024-05-01,North Central,1,3.0,NRL line list (specimen collection date)
+2024-05-01,North West,0,5.0,NRL line list (specimen collection date)
+2024-05-01,South East,0,19.0,NRL line list (specimen collection date)
+2024-05-01,South South,0,29.0,NRL line list (specimen collection date)
+2024-06-01,North Central,3,8.0,NRL line list (specimen collection date)
+2024-06-01,North East,0,6.0,NRL line list (specimen collection date)
+2024-06-01,North West,2,0.0,NRL line list (specimen collection date)
+2024-06-01,South East,1,11.0,NRL line list (specimen collection date)
+2024-06-01,South South,2,18.0,NRL line list (specimen collection date)
+2024-07-01,North Central,0,5.0,NRL line list (specimen collection date)
+2024-07-01,North East,0,2.0,NRL line list (specimen collection date)
+2024-07-01,South East,0,7.0,NRL line list (specimen collection date)
+2024-07-01,South South,0,23.0,NRL line list (specimen collection date)
+2024-08-01,North Central,3,14.0,NRL line list (specimen collection date)
+2024-08-01,North East,0,3.0,NRL line list (specimen collection date)
+2024-08-01,North West,0,10.0,NRL line list (specimen collection date)
+2024-08-01,South East,7,26.0,NRL line list (specimen collection date)
+2024-08-01,South South,7,53.0,NRL line list (specimen collection date)
+2024-09-01,North Central,9,20.0,NRL line list (specimen collection date)
+2024-09-01,North East,2,20.0,NRL line list (specimen collection date)
+2024-09-01,North West,1,10.0,NRL line list (specimen collection date)
+2024-09-01,South East,2,33.0,NRL line list (specimen collection date)
+2024-09-01,South South,12,74.0,NRL line list (specimen collection date)
+2024-10-01,North Central,7,45.0,NRL line list (specimen collection date)
+2024-10-01,North East,3,7.0,NRL line list (specimen collection date)
+2024-10-01,North West,0,2.0,NRL line list (specimen collection date)
+2024-10-01,South East,2,46.0,NRL line list (specimen collection date)
+2024-10-01,South South,8,45.0,NRL line list (specimen collection date)
+2024-10-01,South West,2,12.0,NRL line list (specimen collection date)
+2024-11-01,North Central,5,14.0,NRL line list (specimen collection date)
+2024-11-01,North East,4,8.0,NRL line list (specimen collection date)
+2024-11-01,North West,1,3.0,NRL line list (specimen collection date)
+2024-11-01,South East,5,43.0,NRL line list (specimen collection date)
+2024-11-01,South South,2,43.0,NRL line list (specimen collection date)
+2024-11-01,South West,1,22.0,NRL line list (specimen collection date)
+2024-12-01,North Central,7,6.0,NRL line list (specimen collection date)
+2024-12-01,North East,1,4.0,NRL line list (specimen collection date)
+2024-12-01,North West,4,52.0,NRL line list (specimen collection date)
+2024-12-01,South East,5,18.0,NRL line list (specimen collection date)
+2024-12-01,South South,8,43.0,NRL line list (specimen collection date)
+2024-12-01,South West,0,1.0,NRL line list (specimen collection date)
+2025-01-01,North Central,1,17.0,NRL line list (specimen collection date)
+2025-01-01,North East,1,5.0,NRL line list (specimen collection date)
+2025-01-01,North West,7,24.0,NRL line list (specimen collection date)
+2025-01-01,South East,10,5.0,NRL line list (specimen collection date)
+2025-01-01,South South,11,41.0,NRL line list (specimen collection date)
+2025-02-01,North Central,4,15.0,NRL line list (specimen collection date)
+2025-02-01,North East,1,7.0,NRL line list (specimen collection date)
+2025-02-01,North West,4,15.0,NRL line list (specimen collection date)
+2025-02-01,South East,5,14.0,NRL line list (specimen collection date)
+2025-02-01,South South,7,39.0,NRL line list (specimen collection date)
+2025-03-01,North Central,9,15.0,NRL line list (specimen collection date)
+2025-03-01,North East,2,16.0,NRL line list (specimen collection date)
+2025-03-01,North West,5,4.0,NRL line list (specimen collection date)
+2025-03-01,South East,1,12.0,NRL line list (specimen collection date)
+2025-03-01,South South,12,41.0,NRL line list (specimen collection date)
+2025-04-01,North Central,5,6.0,NRL line list (specimen collection date)
+2025-04-01,North East,0,5.0,NRL line list (specimen collection date)
+2025-04-01,North West,2,2.0,NRL line list (specimen collection date)
+2025-04-01,South East,0,8.0,NRL line list (specimen collection date)
+2025-04-01,South South,4,38.0,NRL line list (specimen collection date)
+2025-04-01,South West,0,1.0,NRL line list (specimen collection date)
+2025-05-01,North Central,0,4.0,NRL line list (specimen collection date)
+2025-05-01,North East,0,1.0,NRL line list (specimen collection date)
+2025-05-01,North West,1,4.0,NRL line list (specimen collection date)
+2025-05-01,South East,0,2.0,NRL line list (specimen collection date)
+2025-05-01,South South,4,17.0,NRL line list (specimen collection date)
+2025-05-01,South West,7,5.0,NRL line list (specimen collection date)
+2025-06-01,North Central,3,3.0,NRL line list (specimen collection date)
+2025-06-01,North East,0,2.0,NRL line list (specimen collection date)
+2025-06-01,North West,5,3.0,NRL line list (specimen collection date)
+2025-06-01,South East,0,3.0,NRL line list (specimen collection date)
+2025-06-01,South South,11,16.0,NRL line list (specimen collection date)
+2025-07-01,North Central,3,8.0,NRL line list (specimen collection date)
+2025-07-01,North East,0,1.0,NRL line list (specimen collection date)
+2025-07-01,North West,1,3.0,NRL line list (specimen collection date)
+2025-07-01,South East,1,3.0,NRL line list (specimen collection date)
+2025-07-01,South South,6,3.0,NRL line list (specimen collection date)
+2025-08-01,North Central,2,1.0,NRL line list (specimen collection date)
+2025-08-01,North West,2,1.0,NRL line list (specimen collection date)
+2025-08-01,South East,3,3.0,NRL line list (specimen collection date)
+2025-08-01,South South,10,10.0,NRL line list (specimen collection date)
+2025-09-01,North Central,4,6.0,NRL line list (specimen collection date)
+2025-09-01,North West,3,2.0,NRL line list (specimen collection date)
+2025-09-01,South East,1,0.0,NRL line list (specimen collection date)
+2025-09-01,South South,5,15.0,NRL line list (specimen collection date)
+2025-10-01,North Central,2,2.0,NRL line list (specimen collection date)
+2025-10-01,North East,1,5.0,NRL line list (specimen collection date)
+2025-10-01,South East,7,1.0,NRL line list (specimen collection date)
+2025-10-01,South South,9,20.0,NRL line list (specimen collection date)
