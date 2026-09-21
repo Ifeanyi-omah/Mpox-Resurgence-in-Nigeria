@@ -1,0 +1,463 @@
+Month,Year,State,Total Case Count,Total Confirmed Cases
+June,2017,Rivers,1,1
+July,2017,Lagos,5,2
+July,2017,Bayelsa,3,0
+July,2017,Imo,2,1
+July,2017,Bauchi,1,0
+July,2017,Ondo,1,0
+July,2017,Rivers,1,1
+July,2017,Kogi,1,0
+August,2017,Rivers,1,1
+August,2017,Akwa Ibom,1,1
+September,2017,Bayelsa,14,6
+September,2017,Imo,1,1
+September,2017,Akwa Ibom,1,0
+September,2017,Katsina,1,0
+September,2017,Rivers,1,1
+September,2017,Ekiti,1,0
+September,2017,FCT,1,1
+October,2017,Bayelsa,17,9
+October,2017,Rivers,16,14
+October,2017,Lagos,16,1
+October,2017,Akwa Ibom,10,5
+October,2017,Cross River,10,4
+October,2017,Delta,6,2
+October,2017,Ekiti,6,2
+October,2017,Niger,5,0
+October,2017,FCT,5,3
+October,2017,Abia,3,1
+October,2017,Katsina,3,0
+October,2017,Imo,3,1
+October,2017,Kaduna,2,0
+October,2017,Edo,2,2
+October,2017,Enugu,2,1
+October,2017,Nasarawa,2,1
+October,2017,Kwara,1,0
+October,2017,Kano,1,0
+October,2017,Oyo,1,0
+November,2017,Rivers,9,6
+November,2017,Bayelsa,8,4
+November,2017,Cross River,4,3
+November,2017,Edo,4,2
+November,2017,FCT,2,1
+November,2017,Imo,2,2
+November,2017,Niger,1,0
+November,2017,Adamawa,1,0
+November,2017,Benue,1,1
+November,2017,Delta,1,1
+November,2017,Kwara,1,0
+December,2017,Rivers,7,2
+December,2017,Cross River,5,2
+December,2017,Benue,1,1
+December,2017,Lagos,1,1
+December,2017,Abia,1,0
+December,2017,Edo,1,0
+January,2018,Abia,1,1
+January,2018,Akwa Ibom,9,0
+January,2018,Cross River,2,0
+January,2018,Imo,1,1
+January,2018,Lagos,1,1
+January,2018,Oyo,1,1
+January,2018,Rivers,1,1
+February,2018,Anambra,1,0
+February,2018,Cross River,1,1
+February,2018,Imo,1,1
+February,2018,Plateau,1,1
+February,2018,Rivers,3,3
+March,2018,Abia,1,1
+March,2018,Adamawa,3,0
+March,2018,Anambra,1,1
+March,2018,Cross River,1,0
+March,2018,Delta,1,1
+March,2018,Nasarawa,1,1
+March,2018,Rivers,4,3
+April,2018,Bayelsa,1,1
+April,2018,Cross River,1,0
+April,2018,Delta,1,1
+April,2018,Edo,1,0
+April,2018,Enugu,1,1
+April,2018,Rivers,2,1
+May,2018,Cross River,3,1
+May,2018,Plateau,1,1
+May,2018,Rivers,4,0
+June,2018,Cross River,1,0
+June,2018,Delta,1,1
+June,2018,Enugu,1,1
+June,2018,Oyo,2,2
+June,2018,Rivers,1,1
+July,2018,Bayelsa,1,1
+July,2018,Kebbi,1,0
+July,2018,Oyo,1,0
+July,2018,Rivers,6,0
+August,2018,Bayelsa,2,1
+August,2018,Cross River,2,0
+August,2018,Delta,3,1
+August,2018,FCT,1,0
+August,2018,Lagos,1,0
+August,2018,Rivers,8,2
+Septmber,2018,Bayelsa,4,4
+Septmber,2018,Delta,1,1
+Septmber,2018,Ebonyi,1,0
+Septmber,2018,Lagos,1,0
+Septmber,2018,Rivers,5,0
+October,2018,Bayelsa,4,2
+October,2018,Cross River,5,0
+October,2018,Oyo,1,1
+October,2018,Rivers,3,2
+November,2018,Bayelsa,1,1
+November,2018,Cross River,1,1
+November,2018,Delta,2,0
+November,2018,Edo,1,1
+November,2018,FCT,1,0
+November,2018,Oyo,1,0
+December,2018,Bayelsa,1,1
+December,2018,Delta,1,1
+January,2019,Anambra,1,1
+January,2019,Bauchi,1,1
+January,2019,Delta,2,1
+January,2019,Lagos,1,1
+January,2019,Plateau,1,1
+January,2019,Rivers,2,2
+February,2019,Bayelsa,2,1
+February,2019,Delta,5,4
+February,2019,Lagos,2,1
+February,2019,Rivers,2,2
+March,2019,FCT,1,0
+March,2019,Lagos,6,5
+March,2019,Rivers,2,1
+April,2019,Cross River,1,1
+April,2019,Delta,1,1
+April,2019,Lagos,1,1
+April,2019,Oyo,1,1
+April,2019,Zamfara,1,1
+May,2019,Bayelsa,1,0
+May,2019,Delta,3,3
+May,2019,Lagos,1,1
+May,2019,Oyo,1,0
+June,2019,Bayelsa,1,1
+June,2019,Delta,1,1
+June,2019,Lagos,2,2
+July,2019,Bayelsa,2,2
+July,2019,Delta,1,1
+July,2019,Enugu,1,1
+July,2019,Lagos,7,4
+July,2019,Rivers,3,1
+August,2019,Lagos,1,0
+August,2019,Rivers,1,0
+September,2019,Lagos,2,1
+October,2019,Bayelsa,1,1
+November,2019,Borno,1,1
+December,2019,Bayelsa,1,1
+December,2019,Rivers,1,0
+January,2020,Cross River,1,0
+January,2020,Edo,1,0
+January,2020,Lagos,2,0
+January,2020,Ondo,1,0
+January,2020,Plateau,1,1
+February,2020,Cross River,2,0
+February,2020,Fct,1,0
+February,2020,Lagos,2,1
+February,2020,Oyo,2,0
+February,2020,Rivers,1,0
+March,2020,Abia,2,0
+March,2020,Lagos,2,1
+April,2020,Fct,1,0
+July,2020,Bayelsa,2,0
+July,2020,Lagos,1,1
+September,2020,Ebonyi,1,1
+September,2020,Rivers,5,0
+October,2020,Lagos,1,1
+October,2020,Rivers,1,1
+November,2020,Bayelsa,1,0
+December,2020,Bayelsa,2,0
+December,2020,Lagos,1,0
+December,2020,Delta,1,1
+January,2021,Bayelsa,4,1
+January,2021,Delta,5,1
+January,2021,Rivers,3,0
+February,2021,Bayelsa,3,0
+February,2021,Delta,4,1
+February,2021,Rivers,4,0
+March,2021,Lagos,1,1
+March,2021,Oyo,1,0
+April,2021,Edo,1,1
+May,2021,Bayelsa,3,1
+May,2021,Gombe,1,0
+May,2021,Rivers,2,1
+June,2021,Bayelsa,7,0
+June,2021,Delta,3,1
+June,2021,Gombe,1,0
+June,2021,Lagos,3,3
+June,2021,Rivers,6,2
+July,2021,Bayelsa,10,2
+July,2021,Delta,7,3
+July,2021,Fct,1,1
+July,2021,Niger,1,1
+July,2021,Ogun,2,1
+July,2021,Rivers,4,1
+August,2021,Delta,1,1
+August,2021,Rivers,1,0
+September,2021,Edo,1,1
+October,2021,Bayelsa,1,1
+October,2021,Edo,2,2
+October,2021,Kano ,5,0
+October,2021,Plateau,1,0
+November,2021,Bayelsa,1,1
+November,2021,Delta,1,1
+November,2021,Lagos,1,1
+November,2021,Rivers,1,1
+December,2021,Bayelsa,1,0
+December,2021,Cross Rivers,1,1
+December,2021,Delta,1,1
+December,2021,Lagos,1,1
+December,2021,Rivers,1,0
+January,2022,Adamawa,4,0
+January,2022,Edo,1,0
+January,2022,Fct,1,1
+January,2022,Imo,1,1
+January,2022,Lagos,3,1
+February,2022,Bayelsa,3,0
+February,2022,Imo,3,0
+February,2022,Lagos,1,1
+March,2022,Adamawa,7,2
+March,2022,Bayelsa,1,0
+March,2022,Cross River,5,2
+March,2022,Delta,1,1
+March,2022,Fct,2,0
+March,2022,Kano,6,1
+April,2022,Bayelsa,3,0
+April,2022,Delta,1,1
+April,2022,Edo,1,0
+April,2022,Fct,1,1
+April,2022,Kano,1,1
+April,2022,Lagos,2,2
+April,2022,Ogun,1,0
+May,2022,Adamawa,2,2
+May,2022,Bayelsa,2,2
+May,2022,Delta,1,0
+May,2022,Edo,1,0
+May,2022,Fct,4,0
+May,2022,Gombe,4,0
+May,2022,Kaduna,1,0
+May,2022,Kebbi,11,0
+May,2022,Lagos,9,2
+May,2022,Niger,3,0
+May,2022,Oyo,1,0
+May,2022,Plateau,1,1
+May,2022,Rivers,2,1
+June,2022,Adamawa,9,4
+June,2022,Akwa Ibom,3,0
+June,2022,Anambra,1,1
+June,2022,Bauchi ,1,0
+June,2022,Bayelsa,12,3
+June,2022,Benue,2,0
+June,2022,Borno,2,0
+June,2022,Cross River,3,1
+June,2022,Delta,6,5
+June,2022,Edo,7,4
+June,2022,Ekiti,1,0
+June,2022,Fct,3,2
+June,2022,Gombe,6,0
+June,2022,Imo,2,1
+June,2022,Kaduna,1,0
+June,2022,Kano,5,0
+June,2022,Katsina,6,1
+June,2022,Kwara ,2,2
+June,2022,Lagos,18,7
+June,2022,Nasarawa,7,3
+June,2022,Niger,1,1
+June,2022,Ogun,6,1
+June,2022,Ondo,8,1
+June,2022,Oyo,5,1
+June,2022,Plateau,7,3
+June,2022,Rivers,5,4
+June,2022,Taraba,2,2
+July,2022,Abia,5,3
+July,2022,Adamawa,10,4
+July,2022,Akwa Ibom,3,1
+July,2022,Anambra,7,5
+July,2022,Bauchi ,6,1
+July,2022,Bayelsa,9,7
+July,2022,Borno,6,3
+July,2022,Delta,8,5
+July,2022,Ebonyi,2,0
+July,2022,Edo,5,4
+July,2022,Enugu,2,0
+July,2022,Fct,2,1
+July,2022,Gombe,9,3
+July,2022,Imo,5,2
+July,2022,Kaduna,1,0
+July,2022,Kano,5,3
+July,2022,Katsina,13,1
+July,2022,Kebbi,2,0
+July,2022,Kogi,2,2
+July,2022,Kwara ,6,3
+July,2022,Lagos,13,8
+July,2022,Nasarawa,9,5
+July,2022,Ogun,2,0
+July,2022,Ondo,24,13
+July,2022,Osun,1,0
+July,2022,Oyo,7,2
+July,2022,Plateau,15,2
+July,2022,Rivers,6,6
+July,2022,Taraba,9,3
+August,2022,Abia,37,0
+August,2022,Adamawa,8,18
+August,2022,Akwa Ibom,5,2
+August,2022,Anambra,7,2
+August,2022,Bauchi ,2,4
+August,2022,Bayelsa,8,0
+August,2022,Benue,6,7
+August,2022,Borno,5,4
+August,2022,Cross River,4,0
+August,2022,Delta,9,1
+August,2022,Ebonyi,14,2
+August,2022,Edo,12,5
+August,2022,Ekiti,3,8
+August,2022,Enugu,1,0
+August,2022,Fct,12,0
+August,2022,Gombe,12,6
+August,2022,Imo,33,2
+August,2022,Kaduna,3,9
+August,2022,Kano,2,1
+August,2022,Katsina,8,0
+August,2022,Kogi,2,3
+August,2022,Kwara ,3,1
+August,2022,Lagos,62,0
+August,2022,Nasarawa,4,37
+August,2022,Niger,1,1
+August,2022,Ogun,22,0
+August,2022,Ondo,21,11
+August,2022,Osun,5,8
+August,2022,Oyo,4,1
+August,2022,Plateau,5,2
+August,2022,Rivers,10,0
+August,2022,Taraba,8,7
+August,2022,Yobe,1,0
+August,2022,Zamfara,1,0
+September,2022,Abia,23,11
+September,2022,Adamawa,9,0
+September,2022,Akwa Ibom,7,4
+September,2022,Anambra,8,5
+September,2022,Bauchi ,1,0
+September,2022,Bayelsa,13,7
+September,2022,Benue,9,6
+September,2022,Borno,7,5
+September,2022,Cross River,5,3
+September,2022,Delta,18,8
+September,2022,Ebonyi,5,1
+September,2022,Edo,4,3
+September,2022,Ekiti,3,0
+September,2022,Enugu,1,0
+September,2022,Fct,13,4
+September,2022,Gombe,4,0
+September,2022,Imo,26,9
+September,2022,Kaduna,20,7
+September,2022,Kano,2,0
+September,2022,Katsina,13,2
+September,2022,Kebbi,3,2
+September,2022,Kogi,2,1
+September,2022,Kwara ,4,3
+September,2022,Lagos,126,62
+September,2022,Nasarawa,10,3
+September,2022,Ogun,19,7
+September,2022,Ondo,17,5
+September,2022,Osun,6,3
+September,2022,Oyo,7,4
+September,2022,Plateau,7,3
+September,2022,Rivers,9,8
+September,2022,Sokoto,1,0
+September,2022,Taraba,3,2
+October,2022,Abia,23,14
+October,2022,Adamawa,5,1
+October,2022,Akwa Ibom,4,4
+October,2022,Anambra,11,6
+October,2022,Bayelsa,24,10
+October,2022,Benue,5,0
+October,2022,Borno,3,0
+October,2022,Cross River,3,2
+October,2022,Delta,13,4
+October,2022,Ebonyi,5,3
+October,2022,Edo,9,2
+October,2022,Ekiti,1,0
+October,2022,Enugu,1,1
+October,2022,Fct,13,4
+October,2022,Gombe,4,1
+October,2022,Imo,35,14
+October,2022,Jigawa,1,0
+October,2022,Kaduna,29,4
+October,2022,Katsina,12,1
+October,2022,Kebbi,1,0
+October,2022,Kogi,1,0
+October,2022,Kwara ,2,1
+October,2022,Lagos,116,34
+October,2022,Nasarawa,3,2
+October,2022,Niger,1,0
+October,2022,Ogun,20,10
+October,2022,Ondo,21,3
+October,2022,Osun,4,0
+October,2022,Oyo,4,1
+October,2022,Plateau,30,4
+October,2022,Rivers,7,5
+October,2022,Taraba,2,0
+November,2022,Abia,16,9
+November,2022,Adamawa,2,0
+November,2022,Akwa Ibom,1,0
+November,2022,Anambra,5,3
+November,2022,Bayelsa,28,6
+November,2022,Borno,2,2
+November,2022,Cross River,10,3
+November,2022,Delta,10,3
+November,2022,Ebonyi,2,2
+November,2022,Edo,5,4
+November,2022,Enugu,15,3
+November,2022,Fct,5,2
+November,2022,Gombe,1,0
+November,2022,Imo,14,4
+November,2022,Kaduna,3,2
+November,2022,Kano,4,2
+November,2022,Katsina,2,0
+November,2022,Kebbi,2,0
+November,2022,Kogi,1,1
+November,2022,Kwara ,19,12
+November,2022,Lagos,59,27
+November,2022,Nasarawa,7,1
+November,2022,Not Specified,1,1
+November,2022,Ogun,27,7
+November,2022,Ondo,19,5
+November,2022,Osun,3,1
+November,2022,Plateau,23,2
+November,2022,Rivers,8,3
+November,2022,Taraba,3,0
+November,2022,Zamfara,17,1
+December,2022,Abia,15,3
+December,2022,Akwa Ibom,3,1
+December,2022,Anambra,2,1
+December,2022,Bauchi,1,0
+December,2022,Bayelsa,15,3
+December,2022,Benue,2,0
+December,2022,Borno,3,1
+December,2022,Cross River,5,0
+December,2022,Delta,5,2
+December,2022,Ebonyi,1,1
+December,2022,Edo,6,2
+December,2022,Ekiti,11,1
+December,2022,Enugu,9,0
+December,2022,Fct,11,4
+December,2022,Imo,21,5
+December,2022,Kaduna,16,1
+December,2022,Katsina,1,0
+December,2022,Kebbi,1,0
+December,2022,Kogi,2,0
+December,2022,Kwara ,14,0
+December,2022,Lagos,20,7
+December,2022,Nasarawa,9,2
+December,2022,Ogun,12,4
+December,2022,Ondo,14,5
+December,2022,Osun,1,0
+December,2022,Oyo,1,0
+December,2022,Plateau,23,1
+December,2022,Rivers,5,3
+December,2022,Taraba,1,0
+December,2022,Yobe,3,1
+December,2022,Zamfara,2,0
