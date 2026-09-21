@@ -1,0 +1,36 @@
+# Large inputs are tracked in gzipped form (see README). The uncompressed
+# copies stay on disk for local use but are not pushed: GitHub rejects any
+# file over 100 MB and warns above 50 MB.
+BEAST/*.xml
+Data/result.tsv
+Data/region.result.tsv
+Data/2026+Region+NCDC+MPOX.tsv
+Data/324+NCDC+Nigeria 2.aln.fasta
+
+# Posterior sample files: regenerate by running the XMLs, or request from the
+# authors. A single .trees file here is larger than the whole repository.
+*.trees
+*.log
+*.ops
+*.chkpt
+!BEAST/*.log.gz
+
+# OS and editor cruft
+.DS_Store
+._*
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
